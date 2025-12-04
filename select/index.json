@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君を見かけた",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-04T14:19:03.686617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君を見かけた",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_君を見かけた_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君を見かけた",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_君を見かけた_≠ME.txt"
+    }
+  ]
+}
